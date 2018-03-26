@@ -1,4 +1,4 @@
-//License : GNU General Public License
+//License : GM License
 
 var sdcard = android.os.Environment.getExternalStorageDirectory().getAbsolutePath(); //변수 생성
 var folder = new java.io.File(sdcard+"/G.M_BOT/"); //생성할 풀더 위치 및 이름 지정
